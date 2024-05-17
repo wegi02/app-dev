@@ -1,2 +1,7 @@
 # app-dev
-My first repisotory
+My first repository
+### Pingu the Penguin 🐧
+
+| Favorite Animal | Favorite Movies |
+| --------------- | --------------- |
+| Penguin | Pingu the Penguin 🐧 | 
