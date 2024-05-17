@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-### Pingu the Penguin {#custom-id}
+### Pingu the Penguin 🐧
 
 | Favorite Animal | Favorite Movies |
 | --------------- | --------------- |
