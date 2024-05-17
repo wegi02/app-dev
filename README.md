@@ -1,5 +1,7 @@
 # app-dev
 My first repository
-| Syntax | Description |
-| ----------- | ----------- |
-| Pengu | Pingu the Penguin 🐧 | 
+### Pingu the Penguin {#custom-id}
+
+| Favorite Animal | Favorite Movies |
+| --------------- | --------------- |
+| Penguin | Pingu the Penguin 🐧 | 
