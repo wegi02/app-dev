@@ -1,2 +1,5 @@
 # app-dev
-My first repisotory
+My first repository
+| Syntax | Description |
+| ----------- | ----------- |
+| Pengu | Pingu the Penguin 🐧 | 
